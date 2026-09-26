@@ -1,0 +1,5 @@
+A = int(input('digite um valor: '))
+B = int(input('digite outro valor: '))
+C = int(input('digite outro valor: '))
+D = int(input('digite outro valor'))
+print(f"DIFERENCA = {A*B-C*D}")
